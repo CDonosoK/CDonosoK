@@ -13,6 +13,8 @@ I am a student of computer science engineering from Santiago, Chile. I love buil
 <br>
 🌱 I’m currently learning ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-blue)
 <br>
+🌱 I’m currently perfecting in [![Robot Operating System](https://img.shields.io/badge/-Robot%20Operating%20System-orange)](https://github.com/CDonosoK/ROS)
+<br>
 👨🏻‍💻 Some of my projects are available on [![Github](https://img.shields.io/badge/-Proyectos-red)](https://github.com/CDonosoK/Proyectos)
 <br>
 💬 Ask me about anything tech related, I am happy to help 😁;
@@ -34,6 +36,7 @@ I am a student of computer science engineering from Santiago, Chile. I love buil
 [![Arduino](https://img.shields.io/badge/Tool-Arduino-%23007ACC?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
 [![PyTorch](https://img.shields.io/badge/Tool-PyTorch-%23007ACC?style=flat-square&logo=PyTorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-%23007ACC?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![ROS](https://img.shields.io/badge/Tool-ROS-%23007ACC?style=flat-square&logo=ROS)](https://www.ros.org/)
 <br>
 [![Python](https://img.shields.io/badge/Language-Python-%23007ACC?style=flat-square&logo=Python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/Language-C-%23007ACC?style=flat-square&logo=C)](https://www.python.org/)
