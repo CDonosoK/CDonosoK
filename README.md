@@ -30,18 +30,20 @@ I am a student of computer science engineering from Santiago, Chile. I love buil
 ## 🔨💻 Tools & Technology Stack 💻🔨 
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-cyan?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 <br>
-[![Power BI](https://img.shields.io/badge/Tool-PowerBI-%23007ACC?style=flat-square&logo=Microsoft)](https://powerbi.microsoft.com/)
-[![Arduino](https://img.shields.io/badge/Tool-Arduino-%23007ACC?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
-[![PyTorch](https://img.shields.io/badge/Tool-PyTorch-%23007ACC?style=flat-square&logo=PyTorch)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-%23007ACC?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![ROS](https://img.shields.io/badge/Tool-ROS-%23007ACC?style=flat-square&logo=ROS)](https://www.ros.org/)
+[![Power BI](https://img.shields.io/badge/Tool-PowerBI-green?style=flat-square&logo=Microsoft)](https://powerbi.microsoft.com/)
+[![Arduino](https://img.shields.io/badge/Tool-Arduino-blue?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
+[![PyTorch](https://img.shields.io/badge/Tool-PyTorch-red?style=flat-square&logo=PyTorch)](https://pytorch.org/)
 <br>
-[![Python](https://img.shields.io/badge/Language-Python-%23007ACC?style=flat-square&logo=Python)](https://www.python.org/)
-[![C](https://img.shields.io/badge/Language-C-%23007ACC?style=flat-square&logo=C)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23007ACC?style=flat-square&logo=JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Language-Java-%23007ACC?style=flat-square&logo=Java)](https://www.java.com/es/)
+[![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-orange?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![ROS](https://img.shields.io/badge/Tool-ROS-white?style=flat-square&logo=ROS)](https://www.ros.org/)
+<br>
+[![Python](https://img.shields.io/badge/Language-Python-gray?style=flat-square&logo=Python)](https://www.python.org/)
+[![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C)](https://www.python.org/)
+<br>
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=Java)](https://www.java.com/es/)
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
