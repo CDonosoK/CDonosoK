@@ -5,12 +5,12 @@ I am a student of computer science engineering from Santiago, Chile 🇨🇱
 ## About Me
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-- 🔭 &nbsp; I’m currently working on [![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)]
-- 🌱 &nbsp; I’m currently learning [![Inteligencia Artificial](https://img.shields.io/badge/-Inteligencia%20Artificial-blue)]
-- 👨🏻‍💻 &nbsp; Some of my projects are available on [![Github](https://img.shields.io/badge/-Proyectos-red)](https://github.com/CDonosoK/Proyectos)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help 😁;
-- 📫 &nbsp; Feel free to ping me on [![LinkedIn](https://img.shields.io/badge/-Linkdin-blue)](https://www.linkedin.com/in/clemente-donoso-krauss-154b85202)
-- 📝 &nbsp; Checkout my [![CV](https://img.shields.io/badge/-CV-red)](https://drive.google.com/file/d/130Zme1vj2ArvOUPon8Ze6PYi0wUF7Isl/view?usp=sharing)
+- 🔭 I’m currently working on [![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)]
+- 🌱 I’m currently learning [![Inteligencia Artificial](https://img.shields.io/badge/-Inteligencia%20Artificial-blue)]
+- 👨🏻‍💻 Some of my projects are available on [![Github](https://img.shields.io/badge/-Proyectos-red)](https://github.com/CDonosoK/Proyectos)
+- 💬 Ask me about anything tech related, I am happy to help 😁;
+- 📫 Feel free to ping me on [![LinkedIn](https://img.shields.io/badge/-Linkdin-blue)](https://www.linkedin.com/in/clemente-donoso-krauss-154b85202)
+- 📝 Checkout my [![CV](https://img.shields.io/badge/-CV-red)](https://drive.google.com/file/d/130Zme1vj2ArvOUPon8Ze6PYi0wUF7Isl/view?usp=sharing)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:donosoindustries@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/CDonosoK)
 
