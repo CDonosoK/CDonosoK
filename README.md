@@ -3,14 +3,10 @@
 I am a student of computer science engineering from Santiago, Chile 🇨🇱
 
 ## About Me
-
-🔭 I’m currently working on [![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)]
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+🔭 I’m currently working on [![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)]
 <br>
-
 🌱 I’m currently learning [![Inteligencia Artificial](https://img.shields.io/badge/-Inteligencia%20Artificial-blue)]
-🌱 I’m currently learning [![Inteligencia Artificial](https://img.shields.io/badge/-Inteligencia%20Artificial-blue)]()
 <br>
 👨🏻‍💻 Some of my projects are available on [![Github](https://img.shields.io/badge/-Proyectos-red)](https://github.com/CDonosoK/Proyectos)
 <br>
