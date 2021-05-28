@@ -4,7 +4,7 @@ I am a student of computer science engineering from Santiago, Chile 🇨🇱
 
 ## About Me
 
-- 🌱 I’m currently learning [![Neural Network](https://img.shields.io/badge/-Inteligencia%20Artificial-green)]
+- 🌱 I’m currently learning [![Neural Network](https://img.shields.io/badge/-Neural%20Network-green)]
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:donosoindustries@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/CDonosoK)
 
