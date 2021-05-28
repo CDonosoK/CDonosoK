@@ -4,7 +4,7 @@ I am a student of computer science engineering from Santiago, Chile 🇨🇱
 
 ## About Me
 
-🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)]
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 - 🔭 I’m currently working on [![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)]()
