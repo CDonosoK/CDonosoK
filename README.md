@@ -24,7 +24,7 @@ I am a student of computer science engineering from Santiago, Chile. I love buil
 <br>
 📫 How to reach me:  
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:donosoindustries@gmail.com) 
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/CDonosoK) 
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/C_DonosoK) 
 [![Linkedin Badge](https://img.shields.io/badge/-CDonosoK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clemente-donoso-krauss-154b85202/)](https://www.linkedin.com/in/clemente-donoso-krauss-154b85202/)
 <br>
 ## 🔨💻 Tools & Technology Stack 💻🔨 
