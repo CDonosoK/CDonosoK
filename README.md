@@ -1,64 +1,42 @@
-# Hi, I'm CDonosoK! 👋
+## Hi, I'm Clemente Donoso👋
 
-I'm a computer science engineer from Chile.
-
-I am a student of computer science engineering from Santiago, Chile. I love building things and also learn about Machine Learning, Artificial Intellingence, Neural Network and more. Currently applying to be part of microsoft student ambassadors
-<br>
-
-### 🤖 Building my path to be the next Tony Stark 🤖
+<img src='https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNDk4NTEsIm5iZiI6MTczMDA0OTU1MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDE3MTkxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyZTg1NGZhOTE5NDNlNjMxNzEzNmU0MGQ0MjM2OTQ0YTAzNDA0YWYyOGIxNmRmZmIxN2FhZGNjNWQ4OWNkZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.biQN7djjITlxqzQJn16ubPEc0NSW7tgxoloAT9Zx4Ek'>
 
 
-## About Me
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+I'm a Robotics Engineer with a passion for developing software for robots. I'm always looking for new challenges and opportunities to learn and grow as a professional. I'm currently working as a Robotics R&D Engineer at [**`INRIA, LARSEN`**](https://team.inria.fr/larsen/), where I'm developing a asisted teleoperation system for a mobile robot. 
 
-🔭 I’m currently working on ![Plato Inteligente](https://img.shields.io/badge/-Plato%20Inteligente-brightgreen)
-<br>
-🌱 I’m currently learning ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-blue)
-<br>
-🌱 I’m currently perfecting in [![Robot Operating System](https://img.shields.io/badge/-Robot%20Operating%20System-orange)](https://github.com/CDonosoK/ROS)
-<br>
-👨🏻‍💻 Some of my projects are available on [![Github](https://img.shields.io/badge/-Proyectos-red)](https://github.com/CDonosoK/Proyectos)
-<br>
-💬 Ask me about anything tech related, I am happy to help 😁;
-<br>
-📑 Checkout my [![CV](https://img.shields.io/badge/-CV-red)](https://drive.google.com/file/d/130Zme1vj2ArvOUPon8Ze6PYi0wUF7Isl/view?usp=sharing)
-<br>
-<br>
-📫 How to reach me:  
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:donosoindustries@gmail.com) 
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/C_DonosoK) 
-[![Linkedin Badge](https://img.shields.io/badge/-CDonosoK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clemente-donoso-krauss-154b85202/)](https://www.linkedin.com/in/clemente-donoso-krauss-154b85202/)
-<br>
-## 🔨💻 Tools & Technology Stack 💻🔨 
+## 🤖 About Me
+- Robotics Engineer with a passion for developing software for robots.
+- Bachelor's Computers Science from UTFSM, Chile.
+- Bacherlor's Electronic Engineer from UC, Chile.
+- ROS Developer with passion for developing software for robots:
+    - **Teleoperation Systems**
+    - **Autonomous Navigation**
+    - **Computer Vision**
+    - **Machine Learning**
 
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-cyan?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-<br>
-[![Power BI](https://img.shields.io/badge/Tool-PowerBI-green?style=flat-square&logo=Microsoft)](https://powerbi.microsoft.com/)
-[![Arduino](https://img.shields.io/badge/Tool-Arduino-blue?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
-[![PyTorch](https://img.shields.io/badge/Tool-PyTorch-red?style=flat-square&logo=PyTorch)](https://pytorch.org/)
-<br>
-[![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-orange?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![ROS](https://img.shields.io/badge/Tool-ROS-white?style=flat-square&logo=ROS)](https://www.ros.org/)
-<br>
-[![Python](https://img.shields.io/badge/Language-Python-gray?style=flat-square&logo=Python)](https://www.python.org/)
-[![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=C)](https://www.python.org/)
-<br>
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=Java)](https://www.java.com/es/)
+## 🔨 💻  Technology Stack
+- **Programming Languages**: Python, C++, C, Java, JavaScript.
+- **Robotics Frameworks**: ROS, Gazebo, OpenCV
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express.js
+- **Databases**: MySQL, MongoDB, DynamoDB
+- **Tools**: Git, Docker, Jira, Confluence, Slack
+- **Operating Systems**: Linux, Windows
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<br>
+## 💼 What I'm Working On
 
-## 📊 Stats
+In my free time I like to learn new technologies and work on personal projects. Currently, I'm working on:
+- **`ROS2 Package - Human Point Cloud Segmentation`**: A ROS2 package that uses the LiDAR data from a mobile robot to segment the point cloud of a human.
+- **`ROS2 Package - Car Detection`**: A ROS2 package that uses the LiDAR data from a mobile robot to detect cars.
+- **`ROS2 Package - GoPro`**: A ROS2 package that uses the GoPro API to control the camera from a mobile robot.
+- **`ROS2 Package - SLAM 3D`**: A ROS2 package that uses the LiDAR, IMU, GPS and camera data from a mobile robot to create a 3D map of the environment.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=CDonosoK&show_icons=true&theme=dracula" alt="CDonosoK" /></p>
+## 🤖 Some cool projects I've worked on
+- [**`QG Scout - Autonomous Mobile Robot`**](https://godelius.com/en/solutions-and-services/geological-and-environmental-autonomous-sampling/): Autonomous mobile for geological exploration and environmental sampling. The robot is capable of navigating autonomously in outdoor environments, avoiding obstacles and following a predefined path, while do the sampling in points of interest.
 
-</a>
-I am a student of computer science engineering from Santiago, Chile. I love building things and also learn about Machine Learning, Artificial Intellingence, Neural Network and more.
+- [**`CG Scout - Autonomous Mobile Robot`**](https://godelius.com/en/solutions-and-services/conveyor-belt-automated-inspection-system/): Autonomous mobile robot for conveyor belt inspection. The robot collects images, thermal images and audio data from the conveyor belt, while detecting anomalies and defects in the belt, processing the data in real time and sending the results to the cloud.
+
+## 📫 How to Reach Me
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:clemente.donosok@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cdonosok/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/C_DonosoK)
