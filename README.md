@@ -6,14 +6,15 @@
 I'm a Robotics Engineer with a passion for developing software for robots. I'm always looking for new challenges and opportunities to learn and grow as a professional. I'm currently working as a Robotics R&D Engineer at [**`INRIA, LARSEN`**](https://team.inria.fr/larsen/), where I'm developing a asisted teleoperation system for a mobile robot. 
 
 ## 🤖 About Me
-- Robotics Engineer with a passion for developing software for robots.
-- Bachelor's Computers Science from UTFSM, Chile.
-- Bacherlor's Electronic Engineer from UC, Chile.
-- ROS Developer with passion for developing software for robots:
-    - **Teleoperation Systems**
-    - **Autonomous Navigation**
-    - **Computer Vision**
-    - **Machine Learning**
+- Robotics Engineer with a strong background in developing software for robots.
+- Computer Science Engineer from UTFSM, Chile.
+- Bachelor's in Electronic Engineering from UC, Chile.
+- Experienced ROS Developer specializing in:
+    -**Teleoperation Systems**
+    -**Autonomous Navigation**
+    -**Robot Perception**
+    -**Computer Vision**
+    -**Machine Learning**
 
 ## 🔨 💻  Technology Stack
 - **Programming Languages**: Python, C++, C, Java, JavaScript.
