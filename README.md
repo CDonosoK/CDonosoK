@@ -10,11 +10,11 @@ I'm a Robotics Engineer with a passion for developing software for robots. I'm a
 - Computer Science Engineer from UTFSM, Chile.
 - Bachelor's in Electronic Engineering from UC, Chile.
 - Experienced ROS Developer specializing in:
-    -**Teleoperation Systems**
-    -**Autonomous Navigation**
-    -**Robot Perception**
-    -**Computer Vision**
-    -**Machine Learning**
+    - **Teleoperation Systems**
+    - **Autonomous Navigation**
+    - **Robot Perception**
+    - **Computer Vision**
+    - **Machine Learning**
 
 ## 🔨 💻  Technology Stack
 - **Programming Languages**: Python, C++, C, Java, JavaScript.
