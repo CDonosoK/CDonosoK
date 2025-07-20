@@ -37,6 +37,8 @@ In my free time I like to learn new technologies and work on personal projects. 
 
 - [**`CG Scout - Autonomous Mobile Robot`**](https://godelius.com/en/solutions-and-services/conveyor-belt-automated-inspection-system/): Autonomous mobile robot for conveyor belt inspection. The robot collects images, thermal images and audio data from the conveyor belt, while detecting anomalies and defects in the belt, processing the data in real time and sending the results to the cloud.
 
+- [**`AstroViz - Mission monitoring Dashboard`**](https://github.com/CDonosoK/astroviz/tree/main): ROS2-based tool for monitoring robotic missions in real time. Displays robot status, connection, sensors, and position through an interactive and customizable interface.
+
 ## 📫 How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:clemente.donosok@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cdonosok/)
