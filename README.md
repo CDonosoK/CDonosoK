@@ -31,13 +31,14 @@ In my free time I like to learn new technologies and work on personal projects. 
 - **`ROS2 Package - Car Detection`**: A ROS2 package that uses the LiDAR data from a mobile robot to detect cars.
 - **`ROS2 Package - GoPro`**: A ROS2 package that uses the GoPro API to control the camera from a mobile robot.
 - **`ROS2 Package - SLAM 3D`**: A ROS2 package that uses the LiDAR, IMU, GPS and camera data from a mobile robot to create a 3D map of the environment.
+- **`ROS2 Package - AstroViz`**: A ROS2 Package for monitoring robotic mission in real time.
 
 ## 🤖 Some cool projects I've worked on
 - [**`QG Scout - Autonomous Mobile Robot`**](https://godelius.com/en/solutions-and-services/geological-and-environmental-autonomous-sampling/): Autonomous mobile for geological exploration and environmental sampling. The robot is capable of navigating autonomously in outdoor environments, avoiding obstacles and following a predefined path, while do the sampling in points of interest.
 
 - [**`CG Scout - Autonomous Mobile Robot`**](https://godelius.com/en/solutions-and-services/conveyor-belt-automated-inspection-system/): Autonomous mobile robot for conveyor belt inspection. The robot collects images, thermal images and audio data from the conveyor belt, while detecting anomalies and defects in the belt, processing the data in real time and sending the results to the cloud.
 
-- [**`AstroViz - Mission monitoring Dashboard`**](https://github.com/CDonosoK/astroviz/tree/main): ROS2-based tool for monitoring robotic missions in real time. Displays robot status, connection, sensors, and position through an interactive and customizable interface.
+- [**`AstroViz - Mission Monitoring Dashboard`**](https://github.com/CDonosoK/astroviz/tree/main): ROS2-based tool for monitoring robotic missions in real time. Displays robot status, connection, sensors, and position through an interactive and customizable interface.
 
 ## 📫 How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:clemente.donosok@gmail.com)
